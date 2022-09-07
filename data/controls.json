@@ -1,0 +1,72 @@
+{
+  "Controls": [
+    {
+      "Generic Control ID": "PAC-001",
+      "Control Name": "Data Backup and Recovery",
+      "Control Group (Level 1)": "Resiliency",
+      "Control Group (Level 2)": "Backup and Recovery",
+      "Updated At": "29/6/2022 18:32"
+    },
+    {
+      "Generic Control ID": "PAC-002",
+      "Control Name": "Data Encryption",
+      "Control Group (Level 1)": "Security Controls",
+      "Control Group (Level 2)": "Cryptographic Confidentiality",
+      "Updated At": "20/6/2022 12:48"
+    },
+    {
+      "Generic Control ID": "PAC-003",
+      "Control Name": "Penetration Testing",
+      "Control Group (Level 1)": "Security Controls",
+      "Control Group (Level 2)": "Penetration Testing",
+      "Updated At": "2/6/2022 11:15"
+    }
+  ],
+  "Statuses": [
+    {
+      "Generic Control ID": "PAC-001",
+      "Asset Name": "Payments",
+      "Status": "Effective"
+    },
+    {
+      "Generic Control ID": "PAC-002",
+      "Asset Name": "Payments",
+      "Status": "In-Effective"
+    },
+    {
+      "Generic Control ID": "PAC-003",
+      "Asset Name": "Payments",
+      "Status": "Expired"
+    },
+    {
+      "Generic Control ID": "PAC-001",
+      "Asset Name": "Mobile App",
+      "Status": "Effective"
+    },
+    {
+      "Generic Control ID": "PAC-002",
+      "Asset Name": "Mobile App",
+      "Status": "Effective"
+    },
+    {
+      "Generic Control ID": "PAC-003",
+      "Asset Name": "Mobile App",
+      "Status": "Effective"
+    },
+    {
+      "Generic Control ID": "PAC-001",
+      "Asset Name": "Onboarding",
+      "Status": "Effective"
+    },
+    {
+      "Generic Control ID": "PAC-002",
+      "Asset Name": "Onboarding",
+      "Status": "In-Effective"
+    },
+    {
+      "Generic Control ID": "PAC-003",
+      "Asset Name": "Onboarding",
+      "Status": "Effective"
+    }
+  ]
+}
