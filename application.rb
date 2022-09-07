@@ -32,7 +32,7 @@ class Main
     end
 
     def waiting_for_command
-      puts "ENTER COMMAND [help, status, help, quit]"
+      puts "ENTER COMMAND [control, status, help, quit]"
       loop do
         command = gets
         console.execute command.chomp
